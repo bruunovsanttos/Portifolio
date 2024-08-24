@@ -1,6 +1,6 @@
 # Portfólio de projetos  
-Seja bem vindo ao meu portfólio de projetos. 
-Neste repositório você vaio encontrar todos os meus projetos listados por ordem de efetivação.  
+Seja bem vindo ao meu portfólio de projetos.  
+Neste repositório você vai encontrar todos os meus projetos listados por ordem de efetivação.  
 Também por aqui você vai encontrar uma descrição básica do que faz o projeto e o link para te encaminhar para o repositório original do projeto com todas as informações.  
 
 Espero que aproveitem...
