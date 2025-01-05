@@ -13,4 +13,5 @@ Espero que aproveitem...
 | [TO-DO list](https://github.com/bruunovsanttos/taskCLI) 📝🖊️                           | Projeto de uma lista de tarefas no CMD obtendo um CRUD                                                |  
 | [Rastreador de Despesas](https://github.com/bruunovsanttos/Rastreador_de_Despesas) 📝💸 | Projeto de rastreamento de despesas via CMD                                                           |  
 | [Atividade Github](https://github.com/bruunovsanttos/Atividade-GitHub) 👀               | Projeto para verificar atividade de Github utilizando API do Github                                   |
-| [The Movie Data Base](https://github.com/bruunovsanttos/TMDB_CLI) 🎬                     |Projeto para indicar filmes segundo as preferências do usuário|
+| [The Movie Data Base](https://github.com/bruunovsanttos/TMDB_CLI) 🎬                    |Projeto para indicar filmes segundo as preferências do usuário|
+| [Como Criar um Bom Readme](https://github.com/bruunovsanttos/Como-Criar-um-bom-README)                                                            | Contribuição para a comunidade de como criar um bom Readme de projeto|
